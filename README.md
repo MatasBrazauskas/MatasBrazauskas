@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Matas Brazauskas
 
 - 🔭 I’m currently working on my custom text editor.
 - 🌱 I’m currently learning studying in kaunas University of Technology.
