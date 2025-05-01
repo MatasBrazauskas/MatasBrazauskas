@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my custom text editor.
 - 🌱 I’m currently learning studying in kaunas University of Technology.
+- 📫 How to reach me: matasbrazauskas123456@gmail.com
 - ⚡ Fun fact: I started learning programming at 18 years old in 12 grade.
 
 <div align="center">
