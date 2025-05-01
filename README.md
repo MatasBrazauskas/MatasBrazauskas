@@ -13,7 +13,7 @@
   <a href="mailto:matasbrazauskas123456@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/matas-brazauskas-58a521335/" target="_blank">
+  <a href="mailto:steponaskam@gmail.com">steponaskam@gmail.com</a>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
