@@ -5,14 +5,14 @@
 - 📫 How to reach me: matasbrazauskas123456@gmail.com
 - ⚡ Fun fact: I started learning programming at 18 years old in 12 grade.
 
-<div align="center">
-  <a href="mailto:steponaskam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+## :raised_hands: Socials 
+<br>
+<div>
   <a href="https://www.linkedin.com/in/matas-brazauskas-58a521335/"</a>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+</br>
 
 <hr>
 <div align="center"> 
