@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,c,cmake,js,html,css,blender,matlab,git,github,neovim&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,c,js,html,css,blender,matlab,git&perline=5" />
 </p>
 
 <hr>
