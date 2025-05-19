@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm Matas Brazauskas
 
 - 🔭 I’m currently working on my custom text editor.
-- 🌱 I’m currently studying in Kaunas University of Technology.
+- 🌱 I’m currently studying at Kaunas University of Technology.
 - 📫 How to reach me: matasbrazauskas123456@gmail.com
 - ⚡ Fun fact: I started learning programming at 18 years old in 12 grade.
 - ♟️ Peak chess rating of 1422.
@@ -30,7 +30,7 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,c,js,html,css,blender,matlab,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,c,js,html,css,react,git" />
 </p>
 <hr>
 
