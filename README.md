@@ -6,7 +6,7 @@
 - 🌱 I’m currently studying at Kaunas University of Technology.
 - 📫 How to reach me: matasbrazauskas123456@gmail.com
 - ⚡ Fun fact: I started learning programming at 18 years old in 12 grade.
-- ♟️ Peak chess rating of 1445.
+- ♟️ Peak chess rating of 1453.
 
 ## :raised_hands: Socials 
 <br>
