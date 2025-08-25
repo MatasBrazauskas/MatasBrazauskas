@@ -30,7 +30,7 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,c,js,html,css,react,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,java,spring,git" />
 </p>
 <hr>
 
