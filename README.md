@@ -21,7 +21,6 @@
 </br>
 
 <hr>
-<hr>
 
 ## 🛠️ Languages and Tools
 <br>
