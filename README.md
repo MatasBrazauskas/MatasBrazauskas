@@ -21,10 +21,6 @@
 </br>
 
 <hr>
-<div align="center"> 
-  <p>Visitor count</p>
-  <div>![](https://komarev.com/ghpvc/?username=MatasBrazauskas)</div>
-</div>
 <hr>
 
 ## 🛠️ Languages and Tools
