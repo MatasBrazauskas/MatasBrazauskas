@@ -25,7 +25,7 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,java,spring,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,ts,react,java,spring,golang" />
 </p>
 <hr>
 
